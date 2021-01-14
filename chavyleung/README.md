@@ -9,7 +9,7 @@ A SPA Appliction be used for scripts utils
 
 ![Demo](https://github.com/chavyleung/scripts/blob/master/BoxJS.gif)
 
-[Scripts Vote](https://t.me/chavyscripts)
+
 
 # LICENSE
 Copyright © 2019-present chavyleung. This project is [GPL](https://github.com/chavyleung/scripts/blob/master/LICENSE) licensed.
