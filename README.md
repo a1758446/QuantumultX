@@ -1,4 +1,4 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=w37fhy&show_icons=true&theme=merko)
+###
 
 ### 说明 :
 
@@ -64,8 +64,7 @@
 * 解锁网易云音乐：
 * [NeteaseMusic.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/NeteaseMusic.conf)
 
-### 请喝咖啡？谢谢赞赏~
-![感谢赞赏的咖啡哟~](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/zs.png)
+
 
 
 ## 免责声明：
