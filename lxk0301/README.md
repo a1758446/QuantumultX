@@ -1,5 +1,4 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lxk0301&show_icons=true&theme=merko)
-
+##
 ## 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
 
 1.  京东水果([jd_fruit.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_fruit.js))
@@ -94,7 +93,6 @@
 0,31 6-23/2 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
 ```
 
-#### 最后，农场萌宠种豆得豆互相助力可进此[telegram讨论组](https://t.me/JD_fruit_pet)
 
 ### 特别感谢(排名不分先后)：
 * [@NobyDa](https://github.com/NobyDa)
